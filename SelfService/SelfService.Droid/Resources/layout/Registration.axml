@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="40dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_marginBottom="5sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:background="#f7f7f7"
+            android:layout_height="60dp">
+            <EditText
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/RegistrationNumber"
+                android:padding="10dp"
+                android:background="#f7f7f7"
+                android:hint="Enter Your Registration Number"
+                android:textColorHint="#A9A9A9"
+                android:textSize="18sp"
+                android:textColor="#A9A9A9" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/btnregister"
+            android:text="Register"
+            android:layout_marginTop="10sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:background="#FECD57"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:textSize="20sp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            android:gravity="center" />
+    </LinearLayout>
+</LinearLayout>

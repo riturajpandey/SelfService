@@ -1,0 +1,2 @@
+android.app.Application
+com.apq.apq.selfservice_droid

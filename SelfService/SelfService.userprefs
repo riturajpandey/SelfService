@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{865D56EA-BD93-44D5-A6F8-46FE7989EAC6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelfService.iOS/Setup.cs">
+    <Files>
+      <File FileName="SelfService.iOS/AppDelegate.cs" Line="25" Column="23" />
+      <File FileName="SelfService.Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SelfService.iOS/AppDelegate.cs.txt" Line="32" Column="6" />
+      <File FileName="SelfService.Droid/Setup.cs" Line="16" Column="25" />
+      <File FileName="SelfService.iOS/Views/FirstView.cs" Line="24" Column="1" />
+      <File FileName="SelfService.iOS/Setup.cs" Line="21" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SelfService.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5C68B55E-D544-4394-96D9-D78B0ADFAECA" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
